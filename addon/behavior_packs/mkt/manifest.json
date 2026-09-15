@@ -2,9 +2,9 @@
 	"format_version": 2,
 	"header": {
 		"name": "More Slabs Addon Pack: Blocks BP",
-		"description": "More Slabs Addon Pack: Blocks (v1.1.1)",
-		"uuid": "7f27a108-1277-4fb6-a6ea-23fed0ca259b",
-		"version": [1, 1, 1],
+		"description": "More Slabs Addon Pack: Blocks (v1.2.1)",
+		"uuid": "ccd26d91-c9fc-4d21-9806-6edec9c7f40c",
+		"version": [1, 2, 0],
 		"min_engine_version": [1, 21, 130]
 	},
 	"metadata": {
@@ -13,23 +13,23 @@
 	"modules": [
 		{
 			"description": "Behavior",
-			"version": [1, 1, 1],
-			"uuid": "49718081-3235-44b3-a236-f8a96b1bd90f",
+			"version": [1, 2, 0],
+			"uuid": "da3d19a9-e05c-4813-827e-f39e24750ab0",
 			"type": "data"
 		},
 		{
 			"description": "Script resources",
 			"language": "javascript",
 			"type": "script",
-			"uuid": "3f027ac3-ec12-4bea-a883-1fa2be03edd8",
-			"version": [1, 1, 1],
+			"uuid": "e8a24127-2cbe-4696-b678-be01cdc621c3",
+			"version": [1, 2, 0],
 			"entry": "scripts/main.js"
 		}
 	],
 	"dependencies": [
 		{
-			"uuid": "50e102ef-3b57-4f01-ad46-79ffdf437f93",
-			"version": [1, 1, 1]
+			"uuid": "22aa0f6b-5e5b-4797-8a9e-27d3fadd2310",
+			"version": [1, 2, 0]
 		},
 		{
 			"module_name": "@minecraft/server",
