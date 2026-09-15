@@ -2,8 +2,8 @@
 	"format_version": 2,
 	"header": {
 		"name": "More Slabs Addon Pack: Blocks BP",
-		"description": "More Slabs Addon Pack: Blocks (v1.2.1)",
-		"uuid": "ccd26d91-c9fc-4d21-9806-6edec9c7f40c",
+		"description": "More Slabs Addon Pack: Blocks (v1.2.0)",
+		"uuid": "c42366e1-a267-4b7a-a73c-4bc405e52161",
 		"version": [1, 2, 0],
 		"min_engine_version": [1, 21, 130]
 	},
@@ -28,7 +28,7 @@
 	],
 	"dependencies": [
 		{
-			"uuid": "22aa0f6b-5e5b-4797-8a9e-27d3fadd2310",
+			"uuid": "1aed3ab1-055d-419a-ba61-3eaebd5f8c69",
 			"version": [1, 2, 0]
 		},
 		{
