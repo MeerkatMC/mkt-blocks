@@ -2,8 +2,8 @@
 	"format_version": 2,
 	"header": {
 		"name": "More Slabs Addon Pack: Blocks RP",
-		"description": "More Slabs Addon Pack: Blocks (v1.2.1rc)",
-		"uuid": "8f800d0d-ac9f-457c-80b1-56ff4c6a903b",
+		"description": "More Slabs Addon Pack: Blocks (v1.2.1)",
+		"uuid": "e9daf3b6-1d9d-4f47-97dc-b785d198beda",
 		"version": [1, 2, 1],
 		"min_engine_version": [1, 21, 130]
 	},
@@ -14,7 +14,7 @@
 		{
 			"description": "More Slabs Addon Pack: Blocks RP",
 			"type": "resources",
-			"uuid": "77d8c6a6-ecb7-4595-ace8-76da93ad099b",
+			"uuid": "8e398b1e-7b11-43b9-a449-af0ac72a2059",
 			"version": [1, 2, 1]
 		}
 	]

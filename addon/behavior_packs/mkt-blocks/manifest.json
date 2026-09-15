@@ -2,8 +2,8 @@
 	"format_version": 2,
 	"header": {
 		"name": "More Slabs Addon Pack: Blocks BP",
-		"description": "More Slabs Addon Pack: Blocks (v1.2.1rc)",
-		"uuid": "fb92411b-5c4c-4062-bd54-825d1f8843ee",
+		"description": "More Slabs Addon Pack: Blocks (v1.2.1)",
+		"uuid": "689b10ac-e261-4b46-8e08-6f08e04e3436",
 		"version": [1, 2, 1],
 		"min_engine_version": [1, 21, 130]
 	},
@@ -14,21 +14,21 @@
 		{
 			"description": "Behavior",
 			"version": [1, 2, 1],
-			"uuid": "842e4d2a-03ec-4bf2-9de7-538310e1ec1a",
+			"uuid": "b2293fdb-9b15-432f-87ab-3a484884ffd7",
 			"type": "data"
 		},
 		{
 			"description": "Script resources",
 			"language": "javascript",
 			"type": "script",
-			"uuid": "bb3cde07-0b8a-44de-b1d3-f0079aadb0a1",
+			"uuid": "14f64546-d020-4e16-a637-44c41a820d72",
 			"version": [1, 2, 1],
 			"entry": "scripts/main.js"
 		}
 	],
 	"dependencies": [
 		{
-			"uuid": "8f800d0d-ac9f-457c-80b1-56ff4c6a903b",
+			"uuid": "e9daf3b6-1d9d-4f47-97dc-b785d198beda",
 			"version": [1, 2, 1]
 		},
 		{
